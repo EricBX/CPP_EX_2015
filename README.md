@@ -1,9 +1,7 @@
 # CPP_EX_2015
-C++ Programming Language Exercises.
+Here are some C++ Programming Language Exercises.
 
+These simple C++ codes were written in 2015, as C++ programming language course's homework. 
 
-All these simple codes were written about three years ago, 
-
-as C++ programming language courses homework, 
-
-now uploaded in memory of those days and for sharing with you.
+-----
+uploaded in memory of those days.
